@@ -8,7 +8,7 @@ Call of Duty has started a series of arcade games with varieties of objectives. 
 Design a Completely Autonomous robot which could detect and hit the targets. 
 *The game involves the use of Camera, which would be used to give command for the  locomotion by detecting the targets, Laptop, to process the data of camera and send  commands to bot.
 
-## *TASK DESCRIPTION *
+## *TASK DESCRIPTION*
 The game starts with the bot waiting at the start location. It should start observing the arena  from the camera and search for RED boxes. Algorithms should be such that it takes the image  from an on board camera, processes it and sends commands to the arduino for further movement. As  soon as the camera encounters a RED box it should move towards it. Arena would have 3 RED  boxes and 3 or 2 BLUE boxes. Your bot should avoid hitting the BLUE boxes. When all 3 RED 
 boxes are removed bot should go to any of the GREEN marked nodes (finish nodes). When the bot hits the red box or reaches the finish nodes it should glow a RED LED giving  us command to remove the box from the arena or to stop time. The RED boxes would also be considered as checkpoints so in any case of wrong motion or hitting the arena bot would  be placed to the last checkpoint. 
 The Background will be Black and the boxes will be Red and Blue. If any team assumes  manual control at any time during the game it will be immediately disqualified. In case of  any change in colors, details would be shared on the group. 
