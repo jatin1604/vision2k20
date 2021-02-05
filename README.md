@@ -31,6 +31,6 @@ The Background will be Black and the boxes will be Red and Blue. If any team ass
   7. The time of the match will only be recorded from referees' stopwatch. 
 
 ## *ARENA FOR EVENT*
-![](images/Arena.jpeg)
+![](images/vision.png)
 
 ###Code for mobility of robot is written through Arduino and its file is mentioned above [vision.ino](/vision.ino) 
