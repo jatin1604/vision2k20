@@ -14,12 +14,16 @@ boxes are removed bot should go to any of the GREEN marked nodes (finish nodes).
 The Background will be Black and the boxes will be Red and Blue. If any team assumes  manual control at any time during the game it will be immediately disqualified. In case of  any change in colors, details would be shared on the group. 
 
 ## *BOT SPECIFICATIONS*  
-  • The Bot should be fully autonomous. Cables are allowed to send command to arduino. *wired bot in case you are using an adapter and wireless in case you use a battery for  power supply. 
-• The dimensions of bot at the start of the game should not exceed 25cm x 25cm x  25cm .In other words, each of the robots should completely fit within a box having  respective dimensions. 
-• The weight of the robot should not exceed 5 kg. The remote control (wireless/wired), batteries etc. all of which is to be included in the weight. 
-• The potential difference between any two points in the robot should not exceed 12V  at any point of time during the match. 
-• Teams will be provided a power supply (220V AC supply) in the arena, teams have to  bring their own adapters (for 12V-2A power supply). 
-• The rpm of the motor should not exceed 300rpm. 
+  • The Bot should be fully autonomous. Cables are allowed to send command to arduino. 
+  *wired bot in case you are using an adapter and wireless in case you use a battery for  power supply. 
+  • The dimensions of bot at the start of the game should not exceed 25cm x 25cm x  25cm .In other words, each of the robots should completely fit within a box having  respective dimensions. 
+  • The weight of the robot should not exceed 5 kg. The remote control (wireless/wired), batteries etc. all of which is to be included in the weight. 
+  • The potential difference between any two points in the robot should not exceed 12V  at any point of time during the match. 
+  • Teams will be provided a power supply (220V AC supply) in the arena, teams have to  bring their own adapters (for 12V-2A power supply). 
+  • The rpm of the motor should not exceed 300rpm. 
+  
+## *BOT USED*
+![](images/visionbot.jpeg)
 
 ## *GAME PLAY* 
   1. Each match will have a total time limit of 5 minutes. 
